@@ -42,6 +42,13 @@ It has a few params:
 
 `style` - optional; map style.
 
+= Any examples? =
+
+ This is pretty simple example, which creates a map tile with some coordinates, zoom and sizes:
+
+`[map lat="51.514" lon="-0.137" width="500" height="500" /]`
+
+
 == Screenshots ==
 
 1. Basic usage demo. (`/trunk/screenshot-1.png`)
