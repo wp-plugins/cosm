@@ -22,18 +22,18 @@ This plugin allows you to use Cloudmade Open Street Map services on your blog.
 = What is Cloudmade? =
 
  It is company provided their own mapping services (like Google Maps), based on OpenStreetMap. See more details on:
-1. http://www.cloudmade.com/
-1. http://www.openstreetmap.org/
+* http://www.cloudmade.com/
+* http://www.openstreetmap.org/
 
 = How to use it? =
 
  This plugin has just one tag for now - `[map]`.
 It has a few params:
-1. `name` - this param is critical. Each map on the page must have it's unique name.
-1. `lat, lon, zoom` - these params are optional; they are used to show concrete tile of the map.
-1. `apikey` - optional; used when you don't want to use the API key from options menu.
-1. `width, height` - optional; size of the map frame on the page.
-1. `style` - optional; map style.
+* `name` - this param is critical. Each map on the page must have it's unique name.
+* `lat, lon, zoom` - these params are optional; they are used to show concrete tile of the map.
+* `apikey` - optional; used when you don't want to use the API key from options menu.
+* `width, height` - optional; size of the map frame on the page.
+* `style` - optional; map style.
 
 == Screenshots ==
 
